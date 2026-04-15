@@ -27,6 +27,7 @@ Voici le Dataset : [Dataset](https://github.com/landryne-h/Analyse-des-flux-serv
 
 ### Aperçu du Dashboard
 <img width="1500" height="858" alt="Dashboard_perf service client" src="https://github.com/user-attachments/assets/9ce834bf-f4df-480d-ace9-c9fc241564dc" />
+Acceder au fichier Excel ici : [Rendu](https://github.com/landryne-h/Analyse-des-flux-service-client/blob/ebdb7820e70375570884dd5e8df84a2c36f52c57/Analyse%20des%20Flux%20Service%20Client.xlsx)
 
 ### Insights clés
 
