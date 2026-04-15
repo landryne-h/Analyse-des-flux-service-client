@@ -14,7 +14,8 @@ Comment évoluent les contacts abonnés et quels leviers activer pour optimiser 
 + Canaux (téléphone, email, chat)
 + Motifs de contact (technique, résiliation, facturation, information)
 + Temps moyen de traitement 
-+ Taux de résolution
++ Taux de résolution\
+Voici le Dataset : [Dataset](https://github.com/landryne-h/Analyse-des-flux-service-client/blob/dc41956b72155cb0563e478a2dacff9a2e9a76f1/MOCK_DATA.csv)
 
 ### Méthodologie 
 + Nettoyage et préparation des données (Excel /Power Query)
