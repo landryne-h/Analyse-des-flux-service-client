@@ -1,4 +1,4 @@
-# Analyse-des-flux-service-client
+# 📊 Optimisation de la performance du service client
 
 ### Contexte
 
@@ -15,8 +15,6 @@ Comment évoluent les contacts abonnés et quels leviers activer pour optimiser 
 + Motifs de contact (technique, résiliation, facturation, information)
 + Temps moyen de traitement 
 + Taux de résolution
-Dataset [Uploading MOCK_DATA.csv…]()
-
 
 ### Méthodologie 
 + Nettoyage et préparation des données (Excel /Power Query)
@@ -50,6 +48,15 @@ L’analyse met en évidence plusieurs éléments structurants :
 :mag: **Évolution temporelle**
 Une baisse progressive des contacts entre janvier et mars\
 👉 Peut indiquer une amélioration des process… ou une variation saisonnière à creuser.
+
+### Recommandations
+
+Sur la base de ces analyses, plusieurs leviers d’optimisation peuvent être activés :
+
++ Renforcer le chat pour absorber les demandes simples, tout en surveillant les écarts pour détecter toute dégradation future
++ Améliorer la résolution au premier contact, notamment sur le canal téléphonique
++ Créer une FAQ ou base de connaissance sur les motifs récurrents (information, technique)
++ Optimiser la gestion des ressources en fonction des volumes observés
 
 🛠️ **Outils utilisés**
 + Mockaroo (simulation de données)
