@@ -2,12 +2,13 @@
 
 ### Contexte
 
-Dans un environnement où le service client est fortement sollicité, la maîtrise des flux de contacts est essentielle pour garantir une expérience client fluide et maintenir la performance opérationnelle.\
-Ce projet vise à analyser les interactions abonnés afin d’identifier des axes concrets d’amélioration du service client.
+Dans un environnement où le service client est fortement sollicité, la maîtrise et l’analyse des flux de contacts sont essentielles pour optimiser l’expérience utilisateur et améliorer l’efficacité opérationnelle.\
+
+Ce projet vise à analyser les interactions abonnés afin d’identifier les principaux facteurs de sollicitation du service client et proposer des leviers d’optimisation.
 
 ### Problématique
 
-Comment évoluent les contacts abonnés et quels leviers activer pour optimiser la performance du service client ?
+Comment évoluent les contacts abonnés et quels leviers actionner pour améliorer la performance opérationnelle et la qualité de service ?
 
 ### Données utilisées
 + Volume de contacts (par jour)
@@ -19,11 +20,11 @@ Voici le Dataset : [Dataset](https://github.com/landryne-h/Analyse-des-flux-serv
 
 ### Méthodologie 
 + Nettoyage et préparation des données (Excel /Power Query)
-+ Analyse exploratoire (tendances, saisonnalité)
-+ Analyse par canal
++ Analyse exploratoire des tendances et saisonnalité
++ Analyse des performances par canal
 + Analyse des motifs de contact
 + Identification des pics d’activité
-+ Mise en relation avec la performance (temps, volume…) 
++ Corrélation entre volume, traitement et efficacité 
 
 ### Aperçu du Dashboard
 <img width="1500" height="858" alt="Dashboard_perf service client" src="https://github.com/user-attachments/assets/9ce834bf-f4df-480d-ace9-c9fc241564dc" />
@@ -41,16 +42,16 @@ L’analyse met en évidence plusieurs éléments structurants :
 :mag: **Analyse par canal**
 - **Le chat est le canal le plus utilisé**, suivi du téléphone puis de l’email
 - **Le téléphone présente un taux de résolution plus faible**, malgré un temps de traitement relativement élevé\
-👉 Indice d’une inefficacité ou d’une complexité des demandes traitées via ce canal.
+👉 Cela suggère une complexité plus importante des demandes traitées par téléphone et un potentiel de réallocation vers des canaux plus efficaces.
 
 :mag: **Analyse par motif** 
-- Les demandes liées à **l’information et au technique** génèrent le plus de contacts
-- Les motifs comme la facturation et la résiliation restent significatifs\
+- Les demandes liées à **l’information et au technique** sont les plus fréquentes
+- Les motifs "facturation" et "résiliation" restent significatifs\
 👉 Ces volumes suggèrent des axes d’amélioration côté expérience client ou clarté des offres
 
 :mag: **Évolution temporelle**
 Une baisse progressive des contacts entre janvier et mars\
-👉 Peut indiquer une amélioration des process… ou une variation saisonnière à creuser.
+👉 Peut indiquer une amélioration des process… ou un effet saisonnier à confirmer avec des données complémentaires.
 
 ### Recommandations
 
@@ -62,6 +63,6 @@ Sur la base de ces analyses, plusieurs leviers d’optimisation peuvent être ac
 + Optimiser la gestion des ressources en fonction des volumes observés
 
 🛠️ **Outils utilisés**
-+ Mockaroo (simulation de données)
++ Mockaroo (génération de données)
 + Excel & Power Query (préparation des données, analyse & visualisation)
     
