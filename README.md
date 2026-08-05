@@ -2,7 +2,7 @@
 
 ### Contexte
 
-Dans un environnement où le service client est fortement sollicité, la maîtrise et l’analyse des flux de contacts sont essentielles pour optimiser l’expérience utilisateur et améliorer l’efficacité opérationnelle. \
+Dans un environnement où le service client est fortement sollicité, la maîtrise et l’analyse des flux de contacts sont essentielles pour optimiser l’expérience utilisateur et améliorer l’efficacité opérationnelle. 
 
 Ce projet vise à analyser les interactions abonnés afin d’identifier les principaux facteurs de sollicitation du service client et proposer des leviers d’optimisation.
 
@@ -16,6 +16,7 @@ Comment évoluent les contacts abonnés et quels leviers actionner pour amélior
 + Motifs de contact (technique, résiliation, facturation, information)
 + Temps moyen de traitement 
 + Taux de résolution\
+\ 
 Voici le Dataset : [Dataset](https://github.com/landryne-h/Analyse-des-flux-service-client/blob/dc41956b72155cb0563e478a2dacff9a2e9a76f1/MOCK_DATA.csv)
 
 ### Méthodologie 
@@ -29,7 +30,7 @@ Voici le Dataset : [Dataset](https://github.com/landryne-h/Analyse-des-flux-serv
 ### Aperçu du Dashboard
 <img width="1500" height="858" alt="Dashboard_perf service client" src="https://github.com/user-attachments/assets/9ce834bf-f4df-480d-ace9-c9fc241564dc" />
 
-Vous pouvez accéder au fichier Excel ici : [Rendu](https://github.com/landryne-h/Analyse-des-flux-service-client/raw/ebdb7820e70375570884dd5e8df84a2c36f52c57/Analyse%20des%20Flux%20Service%20Client.xlsx) \ 
+Vous pouvez accéder au fichier Excel ici : [Rendu](https://github.com/landryne-h/Analyse-des-flux-service-client/raw/ebdb7820e70375570884dd5e8df84a2c36f52c57/Analyse%20des%20Flux%20Service%20Client.xlsx)\
 Accéder au Dashboard Power BI ici : [Voir](https://github.com/landryne-h/Analyse-des-flux-service-client/blob/main/Analyse%20des%20flux%20de%20service%20clients.pbix)
 
 ### Insights clés
